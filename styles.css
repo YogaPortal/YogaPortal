@@ -509,6 +509,13 @@ header::before {
   margin: 0 auto;
 }
 
+.map-container iframe {
+  width: 100%;
+  max-width: 400px;
+  height: 300px;
+  border: 0;
+}
+
 
 .footer__socials {
   display: flex;
